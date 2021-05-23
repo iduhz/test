@@ -12,6 +12,9 @@
 		"1.9-recommended": "1.1",
 		"1.9-latest": "1.1",
  
+		"1.8.9-recommended": "1.1",
+		"1.8.9-latest": "1.1",
+		
 		"1.8-recommended": "1.1",
 		"1.8-latest": "1.1",
  
@@ -20,6 +23,11 @@
 	},
 
 	"1.8": {
+		"1.1": "final version",
+		"0.8": "test version"
+	}
+	
+	"1.8.9": {
 		"1.1": "final version",
 		"0.8": "test version"
 	}
