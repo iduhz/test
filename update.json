@@ -33,5 +33,9 @@
    "1.7.2-1.12.2":{
       "1.1":"Test",
       "1.0":"Initial release"
+   },
+   "1.8":{
+      "1.1":"Test",
+      "1.0":"Initial release"
    }
 }
