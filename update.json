@@ -30,12 +30,46 @@
       "1.7.2-recommended":"1.0",
       "1.7.2-latest":"1.0"
    },
-   "1.7.2-1.12.2":{
-      "1.1":"Test",
+   "1.12.2":{
+      "1.0":"Initial release"
+   },
+   "1.12.1":{
+      "1.0":"Initial release"
+   },
+   "1.12":{
+      "1.0":"Initial release"
+   },
+   "1.11.2":{
+      "1.0":"Initial release"
+   },
+   "1.11":{
+      "1.0":"Initial release"
+   },
+   "1.10.2":{
+      "1.0":"Initial release"
+   },
+   "1.10":{
+      "1.0":"Initial release"
+   },
+   "1.9.4":{
+      "1.0":"Initial release"
+   },
+   "1.9":{
+      "1.0":"Initial release"
+   },
+   "1.8.9":{
+      "1.0":"Initial release"
+   },
+   "1.8.8":{
       "1.0":"Initial release"
    },
    "1.8":{
-      "1.1":"Test",
+      "1.0":"Initial release"
+   },
+   "1.7.10":{
+      "1.0":"Initial release"
+   },
+   "1.7.2":{
       "1.0":"Initial release"
    }
 }
