@@ -1,46 +1,13 @@
 {
         "homepage": "https://mantle.gg",
         "promos": {
-
-        "1.15.2-recommended": "1.1",
-        "1.15.2-latest": "1.1",
-
-        "1.12-recommended": "1.1",
-        "1.12-latest": "1.1",
-        "1.11-recommended": "1.1",
-        "1.11-latest": "1.1",
-
-        "1.10-recommended": "1.1",
-        "1.10-latest": "1.1",
-
-        "1.9-recommended": "1.1",
-        "1.9-latest": "1.1",
-
-        "1.8.9-recommended": "1.1",
-        "1.8.9-latest": "1.1",
-
-        "1.8-recommended": "1.1",
-        "1.8-latest": "1.1",
-
-        "1.7-recommended": "1.1",
-        "1.7-latest": "1.1"
+        "1.7-1.12-recommended": "1.1",
+        "1.7-1.12-latest": "1.1"
         },
 
-        "1.8": {
-        "1.1": "final version",
-        "1.0": "test2 version",
-        "0.8": "test version"
-        },
-
-        "1.8.9": {
-        "1.1": "final version",
-        "1.0.0": "test2 version",
-        "0.8": "test version"
-        },
-
-        "1.15.2": {
+        "1.7-1.12": {
         "1.1": "final version",
         "1.0": "test2 version",
         "0.8": "test version"
         }
-        }
+}
