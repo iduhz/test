@@ -31,8 +31,7 @@
       "1.7.2-latest":"1.0"
    },
    "1.7.2-1.12.2":{
-      "1.1":"final version",
-      "1.0":"test2 version",
-      "0.8":"test version"
+      "1.1":"Test"
+      "1.0":"Initial release"
    }
 }
